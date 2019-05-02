@@ -3,9 +3,6 @@ uuid = "914fd8de-29fd-11e9-0a06-012b13fb43aa"
 authors = ["nkottary <kottarynishanth54@gmail.com>"]
 version = "1.0.2"
 
-[deps]
-TestReg = "914fd8de-29fd-11e9-0a06-012b13fb43aa"
-
 [compat]
 JSON = "0.20"
 
