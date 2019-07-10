@@ -1,7 +1,7 @@
 name = "TestReg"
 uuid = "914fd8de-29fd-11e9-0a06-012b13fb43aa"
 authors = ["nkottary <kottarynishanth54@gmail.com>"]
-version = "1.0.4"
+version = "1.0.5"
 
 [deps]
 ACME = "ca8b7239-ccd3-5cce-807f-2072f3f0d108"
