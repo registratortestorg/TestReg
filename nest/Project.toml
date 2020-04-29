@@ -1,0 +1,10 @@
+name = "NestedTest"
+uuid = "e84b3b66-0c93-4390-a5d7-e0f2022e40ed"
+authors = ["nkottary <kottarynishanth54@gmail.com>"]
+version = "1.0.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+
+[compat]
+JSON = "0.20, 0.21, 0.23"
